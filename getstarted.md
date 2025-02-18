@@ -17,12 +17,12 @@ Getting started is *literally* as easy as 1-2-3 :smile:
 Scroll down to see the steps involved, but here is a 30-second video just as a reference as you work through the steps. If you don't already have a [GitHub account](https://github.com), you'll need to sign up.
 
 ![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
-<div class="gs-section-01" markdown="1">{{
+<div class="gs-section-01" markdown="1">
 ### <h3> {{1. Fork this project }}</h3>
-<p>{{
-Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.
-}}</p>
-}}</div>
+<p>
+{{Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.}}
+</p>
+</div>
 <div class="gs-section-02" markdown="1">
 ### <h3> 2. Rename the repository to `YOURUSERNAME.github.io` </h3>
 <p>
