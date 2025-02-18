@@ -18,13 +18,13 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
 
 ![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
 <div class="gs-section-01" markdown="1">
-### <h3> {{1. Fork this project }}</h3>
+### 1. Fork this project
 <p>
 {{Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.}}
 </p>
 </div>
 <div class="gs-section-02" markdown="1">
-### <h3> 2. Rename the repository to `YOURUSERNAME.github.io` </h3>
+###  2. Rename the repository to `YOURUSERNAME.github.io` 
 <p>
 You'll see the word "repository" used a lot in GitHub - it simply means "project". Under __*Repository name*__ you should see the name `beautiful-jekyll`, this is where you need to rename your project to `YOURUSERNAME.github.io` (replace `YOURUSERNAME` with your GitHub user name). It's important to use this exact name so that GitHub will recognize it and automatically create a website for this project.   
 
