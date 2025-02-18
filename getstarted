@@ -47,3 +47,29 @@ The instructions above explain how to use Beautiful Jekyll in the easiest way: b
 
 > Note: Beautiful Jekyll was primarily designed to be used as a GitHub theme, so you will not get any support if you use this theme via Ruby gems. 
 </div>
+<style>
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
+
+.gs-section-02 h3 { 
+     color: blue }
+
+.gs-section-02 p {
+     font-size: 30px;
+
+.gs-section-03 h3 { 
+     color: yellow }
+
+.gs-section-03 p {
+     font-size: 30px;
+
+.gs-section-04 h3 { 
+     color: green }
+
+.gs-section-04 p {
+     font-size: 30px;
+
+</style>
